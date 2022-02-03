@@ -5,8 +5,8 @@
 console.log(array); */
 
 // Pode guardar vários tipos de dados
-let array = ['string', 1, true, ['array1'], ['array2'], ['array3'], ['array4']];
-console.log(array[0]);
+/*/let array = ['string', 1, true, ['array1'], ['array2'], ['array3'], ['array4']];
+console.log(array[0]); */
 
 /* // forEach
 array.forEach(function(item, index){console.log(item, index)}); */
@@ -31,8 +31,8 @@ console.log(array); */
 /* let novoArray = array.slice(0, 3);
 console.log(novoArray); */
 
-let object = { string: 'string', number: 1, Boolean: true, array:['array'], objectInterno: {
-    objectInterno: 'objeto interno'}};
+/* let object = { string: 'string', number: 1, Boolean: true, array:['array'], objectInterno: {
+    objectInterno: 'objeto interno'}}; */
     
     /* console.log(object.objectInterno);
 
@@ -42,5 +42,8 @@ let object = { string: 'string', number: 1, Boolean: true, array:['array'], obje
     var arrayInterno = object.array;
     console.log(arrayInterno); */
 
-    var {string, Boolean, objectInterno} = object;
-    console.log(string, Boolean, objectInterno);
+    /*var {string, Boolean, objectInterno} = object;
+    console.log(string, Boolean, objectInterno); */
+
+    String nome = "Camila";
+    int nome2 = Integer.parselnt(nome);
