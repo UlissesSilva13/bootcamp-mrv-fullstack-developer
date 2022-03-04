@@ -14,4 +14,4 @@ Projeto referente ao curso "Manipulando o DOM" que ministrei pela [Digital Innov
 
 [Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
 
-DOM/dark-mode-exercicio.gif
+DOM/dark-mode-exercicio.gif(https://raw.githubusercontent.com/stebsnusch/basecamp-javascript/004a0f7a0f4df1a62f3197ce75bd1776960b58b9/DOM/dark-mode-exercicio.gif)
